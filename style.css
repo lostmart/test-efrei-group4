@@ -26,3 +26,15 @@ body {
 	list-style: none;
 	gap: 12px;
 }
+
+/* hero */
+.hero {
+	background-image: url("./assets/mountains.webp");
+	background-position: center;
+	background-size: cover;
+	min-height: 60dvh;
+	display: flex;
+    align-items: center;
+    justify-content: center;
+	color: white;
+}
